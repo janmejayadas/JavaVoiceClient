@@ -245,3 +245,9 @@ Figure 2 shows an example of how to set up Raspberry PI.
 - GPIO 'Pin' numbers: (BCM/WIRINGPI/Physical) GND (Any of (physical) pins: 6,9,14,20,25,30,34,39)
 - Wake-Up Switch: GPIO 12/26 (Pin 32) Mute/Diagnostic Switch: GPIO 16/27 (Pin 36)
 - Red LED: GPIO 25/6 (Pin 22) Green LED: GPIO 24/5 (Pin 18) Blue LED: GPIO 23/4 (Pin 16)
+
+## Deploy to IBM Cloud
+
+[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/janmejayadas/JavaVoiceClient.git)
+
+Click the ``Deploy to IBM Cloud`` button and hit ``Create`` and then jump to step 5.
